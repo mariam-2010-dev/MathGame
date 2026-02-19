@@ -101,12 +101,12 @@ Project Purpose:
 This project was created as part of strengthening my C++ programming fundamentals and improving logical thinking and code organization skills.
 
 ### Start Screen
-![Start Screen](StartScreen.png)
+![Start Screen](Images/StartScreen.png)
 
 ### Wrong Question Example
-![Wrong Question](WrongScreen.png)
+![Wrong Question](Images/WrongScreen.png)
 
 ### Right And Final Result
-![Right Question And Result](RightAndFinalResult.png)
+![Right Question And Result](Images/RightAndFinalResult.png)
 
 Developed by: Mariam Ayman
